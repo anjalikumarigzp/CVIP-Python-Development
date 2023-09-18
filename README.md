@@ -158,3 +158,7 @@ if __name__ == "__main__":
 	Decimal.grid(row=6, column=0)
 	# start the GUI
 	gui.mainloop()
+
+
+ #Tkinter GUI development in Python. 
+ Tkinter is the most commonly used GUI library in Python and offers a fast and easy way to create graphical user interfaces.  A GUI-based Typing Speed Game, which is created using the Tkinter library in Python. The game displays a word on the screen and the player has to type that word in the Entry widget. The score and miss count are calculated, and the player is classified into poor, good, or pro categories based on the final score. The game continues for 60 seconds and can be played again if desired.
